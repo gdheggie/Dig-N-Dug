@@ -1,0 +1,2 @@
+"Game to collect all the hidden treasure"
+

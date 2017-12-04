@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@drawable/field">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dev"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="175dp"
+        android:textColor="@color/colorDarkDirt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/artsource"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/colorDarkDirt"/>
+
+    <Button
+        android:theme="@style/AppTheme.BlackButton"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="140dp"
+        android:elevation="8dp"
+        android:textSize="15sp"
+        android:text="@string/back_to_main_menu"
+        android:textColor="@android:color/white"
+        android:id="@+id/backToMain"/>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HeggieGreg_CE07</string>
+    <string name="dev">Developer : Greg Heggie</string>
+    <string name="artsource">Art : by Full Sail University</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="start">Start Game</string>
+    <string name="creds">Credits</string>
+    <string name="dig_n_dug">Dig N\' Dug</string>
+    <string name="inventory">Inventory</string>
+    <string name="gold_title">Gold Collected : </string>
+    <string name="back">Back</string>
+</resources>
